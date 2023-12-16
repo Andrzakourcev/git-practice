@@ -32,6 +32,12 @@
 2. ![image](https://github.com/Andrzakourcev/git-practice/assets/144477949/3224fded-51bc-41d5-acd0-a0c06626c1fb)
 ![image](https://github.com/Andrzakourcev/git-practice/assets/144477949/1386d363-586b-4cd2-a1d9-f0ff348ae2d7)
 
+## Разрешение конфликта
+1. Я вернулся в основную ветку и попробовал слить изменения с помощью _git checkout main_ и _git pull origin main_. Возник конфликт.
+2. Я разрешил конфликт, удалив метки и оставив нужные изменения.
+3. Я закоммитил решение конфликта и отправил его на _GitHub_.
+
+## Автоматизация проверки формата файлов при коммите
 
 
 
